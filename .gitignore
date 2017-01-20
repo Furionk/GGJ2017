@@ -1,0 +1,15 @@
+Library/*
+Temp/*
+Assets/Entitas/*
+Assets/Sources/*
+Assets/Skele/*
+Assets/Standard Assets/*
+*.unitypackage
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
+*.wav
+*.mp3
+*.cubemap
